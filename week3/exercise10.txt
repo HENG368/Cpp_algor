@@ -1,0 +1,3 @@
+For list is more complicate than array. but link list are more easy to import the element 
+and fix data type but array it can not fix data type it all same data type. in addition,
+link list it can contain with other data struture also like  array vector.etc.

@@ -1,0 +1,6 @@
+1. the operation that were o(1)in link list but o(n) in array is inserting members.
+2. opperation is clearly faster in array than in link list is to remove the members.
+3. becase in link lists, from node to another node it connecting by pointer so we need to 
+miantain the direction of node.
+4. The head pointer represent the starter of the link list.
+5. if we lose the head pointer all nodes have beeen delete and free. 
